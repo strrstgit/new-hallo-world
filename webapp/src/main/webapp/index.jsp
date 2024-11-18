@@ -49,14 +49,14 @@
 
         input[type="text"]:focus,
         input[type="password"]:focus {
-            border-color: #4CAF50;
+            border-color: #FF0000;
             outline: none;
         }
 
         .registerbtn {
             width: 100%;
             padding: 12px;
-            background-color: #4CAF50;
+            background-color: #FF0000;
             color: white;
             border: none;
             border-radius: 4px;
