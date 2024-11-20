@@ -92,7 +92,7 @@
 <body>
     <form action="action_page.php" method="POST">
         <div class="container">
-            <h1>Register for DevOps Learning</h1>
+            <h1>New user Register for DevOps Learning</h1>
             <p>Fill in the form below to create your account.</p>
             <hr>
 
