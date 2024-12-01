@@ -96,7 +96,7 @@
             <p>Fill in the form below to create your account.</p>
             <hr>
 
-            <label for="Name"><b>Name</b></label>
+            <label for="Name"><b>name</b></label>
             <input type="text" placeholder="Enter your full name" name="Name" id="Name" required>
 
             <label for="mobile"><b>Mobile Number</b></label>
